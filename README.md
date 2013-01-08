@@ -68,11 +68,14 @@ If you find a bug, want to improve the project, add more translations, or anythi
 6. 
 7. 
 --------------------------------------------------------------------------------------------
- Core Developers  @ www.railsconnect.com
+ Core Developers 
 ----------------------------------------------------------------------------
-Saikiran Mothe -- Sr.Ruby on Rails Developer (saikiranmothe.herokuapp.com) - sai@railsconnect.com
+Saikiran Mothe -- Sr.Ruby on Rails Developer (saikiranmothe.herokuapp.com) - sai@railsconnect.com 
+
 Rakesh Dudilla -- Ruby on Rails Developer  (rakeshd.herokuapp.com) -- drakeshs@railsconncect.com
+
 Praveen Jalwancha -- Ruby on Rails Developer (praveenj@railsconnect.com)
+
 Rakesh Venkat M   -- Data Administrator  & Awesome Rails Hakcer (venkatrm@railsconnect.com )
 
 --------------------------------------------------------------------------------------------
