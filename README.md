@@ -1,6 +1,8 @@
 # ICD
 
-This application holds the contents of [World Health Organization](http://www.who.int/)'s [International Classification of Diseases (ICD)](http://www.who.int/classifications/icd/en/).
+This application holds the contents of [World Health Organization]
+
+(http://www.who.int/)'s [International Classification of Diseases (ICD)](http://www.who.int/classifications/icd/en/).
 
 ## Purpose
 
@@ -10,6 +12,7 @@ The purpose of this application is to provide the contents of the ICD in a SQL f
 
 * English
 * Spanish
+* Hindi ( we are working on this integration ) 
 
 ## What's inside of this application?
 
@@ -27,7 +30,7 @@ Using the browser, just append `.json` to the url and it will return the data as
 
 ### Create/update database
 
-You can use [Pentaho Data-Integration](http://kettle.pentaho.com/) to create/update the database, running the job inside `doc/kettle` (or transformations if you prefer to do it separately).
+to create/update the database, running the job inside `doc/kettle` (or transformations if you prefer to do it separately).
 
 #### But how do I update the database?
 
@@ -62,3 +65,14 @@ If you find a bug, want to improve the project, add more translations, or anythi
 3. Commit your changes (`git commit -am "Added some magic"`)
 4. Push to the branch (`git push origin my_awesome_branch`)
 5. Create an ussue with a link to your branch
+6. 
+7. 
+--------------------------------------------------------------------------------------------
+ Core Developers  @ www.railsconnect.com
+----------------------------------------------------------------------------
+Saikiran Mothe -- Sr.Ruby on Rails Developer (saikiranmothe.herokuapp.com) - sai@railsconnect.com
+Rakesh Dudilla -- Ruby on Rails Developer  (rakeshd.herokuapp.com) -- drakeshs@railsconncect.com
+Praveen Jalwancha -- Ruby on Rails Developer (praveenj@railsconnect.com)
+Rakesh Venkat M   -- Data Administrator  & Awesome Rails Hakcer (venkatrm@railsconnect.com )
+
+--------------------------------------------------------------------------------------------
